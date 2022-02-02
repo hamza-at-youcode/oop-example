@@ -1,3 +1,3 @@
 # OOP-Example
 ## Class diagram
-![Diagram class](class-diagram.png)
+![Diagram class](assets/class-diagram.png)
